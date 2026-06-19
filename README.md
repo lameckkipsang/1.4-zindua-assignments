@@ -1,5 +1,4 @@
-# 1.4-zindua-assignments
-This is 1.4 assignment 
+# 1.4-zindua-assignment
 # The Breakfast Cafe - My First Landing Page
 
 ## Project Brief
