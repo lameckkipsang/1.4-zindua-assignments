@@ -9,3 +9,15 @@ This is my landing page assignment for Zindua School. I built a website for a fi
 * **HTML:** I used standard semantic tags like `<header>`, `<section>`, and `<footer>` to organize the page clearly.
 * **CSS:** I styled the page using basic CSS. I only used simple properties like background colors, text alignment, and fonts, sticking to the fundamental tags we have learned so far.
 * **Git & GitHub:** I used the command line to create feature branches for each section of the site, and then merged everything into my `main` branch for the final submission.
+## Setup Instructions
+If you want to view my project on your computer, follow these steps:
+1. Open your terminal or Git Bash.
+2. Clone this repository using this command:
+   `git clone git@github.com:lameckkipsang/1.4-zindua-assignments.git`
+3. Make sure you are on the `main` branch.
+4. Open the project folder and double-click the `index.html` file to open it in your web browser.
+
+## Screenshots
+* **Hero Section:** assets\Screenshot 1.png
+* **Our Menu:** assets\Screenshot 2.png
+* **Contact Form:** assets\Screenshot 2.png
