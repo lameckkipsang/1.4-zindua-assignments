@@ -21,3 +21,8 @@ If you want to view my project on your computer, follow these steps:
 * **Hero Section:** assets\Screenshot 1.png
 * **Our Menu:** assets\Screenshot 2.png
 * **Contact Form:** assets\Screenshot 2.png
+## Business Rationale
+I designed the website to feel like a cozy, local cafe. 
+* I chose a color palette with dark brown, cream, and warm orange because they remind people of coffee and baked goods.
+* I added a big "Visit Us Today" button right at the top so visitors can easily jump down to the contact form if they want to ask a question or make a reservation.
+* The layout is simple and kept to one page so customers can quickly see our history and what we offer without getting lost in multiple menus.
