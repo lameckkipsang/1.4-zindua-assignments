@@ -9,9 +9,13 @@ header {
 nav {
     text-align: center;
 }
+nav ul li {
+    list-style: none;   
+}
 a {
     color: white;
     font-size: 18px;
+    text-decoration: none;
 }
 h1 {
     color: orange;
@@ -63,4 +67,9 @@ footer {
     background-color: brown;
     color: white;
     text-align: center;
+}
+.hero-image {
+display: flex;
+justify-content: center;
+padding: 20px;
 }
